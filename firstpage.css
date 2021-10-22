@@ -1,0 +1,111 @@
+h1 {
+	text-align: center;
+	background-color: skyblue;
+}
+
+ 
+body {
+	background: linear-gradient(45deg,#CCFFFF,#FFCCCC);
+	text-align: center;
+	/*border: solid;*/
+}
+h2 {
+	color: dodgerblue;
+}
+section {
+	/*border: solid steelblue;*/
+}
+header {
+	/*border: solid;*/
+}
+div	{
+	/*border: solid indianred;*/
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	color: whitesmoke;
+	background-color:blue ;
+}
+a:focus{
+	color: whitesmoke;
+	background-color: blue;
+}
+a:active{
+	border: dotted 3px black;
+}
+footer {
+	margin-top: 5px;
+}
+ol {
+ list-style-type:lower-hexadecimal ;
+}
+
+#class {
+		border-radius: 50%;
+	border-style: groove;
+	border-color: skyblue;
+	border-width: 10px;
+
+}
+
+nav {
+	border: yellow solid 4px;
+	background-color: skyblue;
+}
+
+button {
+	border-radius: 50%;
+	background-color: #CCFFFF;
+	color: blueviolet;
+	width: 150px;
+	height: 50px;
+	margin-left: 50px;
+	font-style: italic;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	transition-property: width,background,border-raduis;
+	transition-duration: .5s;
+	transition-timing-function: ease-out;
+	transition-delay: .1s;
+}
+
+button:hover{
+	background: #FFCCCC;
+	width: 200px;
+	border-radius: 66%;
+}
+
+
+
+
+
+
+#smaller-photo {
+	margin: 5%;
+	float: center;
+	width: 300px;
+
+}
+#center {
+	text-align: center;
+	margin: auto;
+	padding: auto;
+	float: center;
+}
+i 
+{
+	width: auto;
+	height: auto;
+	transition-property: width, height;
+	transition-duration: .5s;
+	transition-timing-function: ease-in;
+	transition-delay: .5s;
+}
+
+i:hover{
+	width: 40px;
+	height: 40px;
+}
