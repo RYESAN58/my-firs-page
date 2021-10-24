@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Ryan Santiago's first page overhaul</title>
+	<link rel="stylesheet" type="text/css" href="overhaul.css">
+	<link \ rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+</head>
+<header id="Header-nav">
+	<img src="https://logos.textgiraffe.com/logos/logo-name/Ryan-designstyle-colors-m.png" alt="R Y A N spelled out" id="logo">
+
+	<nav id=navbar>
+		 
+
+		<form action="Overhaul.html">
+			<input type="submit" value="Home" id="button-map">
+		</form>
+		<form action="overhaulme.html" ></form>
+			<input type="submit" value="Contact"id="button-map">
+
+	</nav>
+</header>
+<div id="first"> <h1><b>Ryan's First Webpage</b></h1></div>
+<div id="image-div"> <img src="file:///C:/Users/ryesa/OneDrive/Desktop/project%20files/imgla.jpg" alt="Photo of me in LA" id="Profile-photo"></div>
+<body>
+
+		 <div id= "sector">
+			<div id="div1"> 
+				<h2><b>Achievements</b></h2>
+						<div id= "inside"><p id="pdiv1"> Ryan has succesfully completed The freecodecamp intro to design course as well as the Michagan univeristy HTML5 CSS3 courses. With that he was given 3 certificates to start his journey to become a Software engineer.</p>
+						</div>
+
+			</div>
+
+			<div id="div2">
+				<h2><b>Goals</b></h2>
+				<p id="pdiv2">Ryan's Goal is to become a top tier Full-Stack software devoloper. He plans to achieve this by learning as much as he can about coding before he takes the next step by joining a bootcamp or finishing school. </p>
+			</div>
+
+			<div id="div3">
+				<h2><b>Plan</b></h2>
+				<p id="pdiv3"> He plans on achivieving these goals by studying more courses on coursea and free code camp as well as going to finisg school with a degree in computer sciecne. </p>
+			</div>
+		</div>	
+<br>
+<div id="divsplit">
+	
+
+</div>
+<div id="video-div">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id= "YTvideo"></iframe>
+</div><!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Ryan Santiago's first page overhaul</title>
+	<link rel="stylesheet" type="text/css" href="overhaul.css">
+	<link \ rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+</head>
+<header id="Header-nav">
+	<img src="https://logos.textgiraffe.com/logos/logo-name/Ryan-designstyle-colors-m.png" alt="R Y A N spelled out" id="logo">
+
+	<nav id=navbar>
+		 
+
+		<form action="Overhaul.html">
+			<input type="submit" value="Home" id="button-map">
+		</form>
+		<form action="overhaulme.html" ></form>
+			<input type="submit" value="Contact"id="button-map">
+
+	</nav>
+</header>
+<div id="first"> <h1><b>Ryan's First Webpage</b></h1></div>
+<div id="image-div"> <img src="file:///C:/Users/ryesa/OneDrive/Desktop/project%20files/imgla.jpg" alt="Photo of me in LA" id="Profile-photo"></div>
+<body>
+
+		 <div id= "sector">
+			<div id="div1"> 
+				<h2><b>Achievements</b></h2>
+						<div id= "inside"><p id="pdiv1"> Ryan has succesfully completed The freecodecamp intro to design course as well as the Michagan univeristy HTML5 CSS3 courses. With that he was given 3 certificates to start his journey to become a Software engineer.</p>
+						</div>
+
+			</div>
+
+			<div id="div2">
+				<h2><b>Goals</b></h2>
+				<p id="pdiv2">Ryan's Goal is to become a top tier Full-Stack software devoloper. He plans to achieve this by learning as much as he can about coding before he takes the next step by joining a bootcamp or finishing school. </p>
+			</div>
+
+			<div id="div3">
+				<h2><b>Plan</b></h2>
+				<p id="pdiv3"> He plans on achivieving these goals by studying more courses on coursea and free code camp as well as going to finisg school with a degree in computer sciecne. </p>
+			</div>
+		</div>	
+<br>
+<div id="divsplit">
+	
+
+</div>
+<div id="video-div">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id= "YTvideo"></iframe>
+</div>
+
+</body>
+<footer> 
+<a href="https://twitter.com/__Worst" target="_blank" aria-label="twitter"><i class = "fab fa-twitter fa-lg" id="twitter"></i></a>
+
+<a href="https://www.linkedin.com/in/ryan-santiago-4111a4166" target="_blank"aria-label="linkedin"> <i class="fab fa-linkedin fa-lg" id="linked"></i></a>
+
+<a href="https://www.facebook.com" target="_blank" aria-label=><i class="fab fa-facebook-square fa-lg" id="book"></i></a>
+
+<a href="https://github.com/RYESAN58" target="_blank" aria-label="github"><i class="fab fa-github-square" id="git"></i>
+
+</a>
+<br>
+Ryan Ilai Santiago 2021
+</footer>
+</html>
+</html>
+
+</body>
+<footer> 
+<a href="https://twitter.com/__Worst" target="_blank" aria-label="twitter"><i class = "fab fa-twitter fa-lg" id="twitter"></i></a>
+
+<a href="https://www.linkedin.com/in/ryan-santiago-4111a4166" target="_blank"aria-label="linkedin"> <i class="fab fa-linkedin fa-lg" id="linked"></i></a>
+
+<a href="https://www.facebook.com" target="_blank" aria-label=><i class="fab fa-facebook-square fa-lg" id="book"></i></a>
+
+<a href="https://github.com/RYESAN58" target="_blank" aria-label="github"><i class="fab fa-github-square" id="git"></i>
+
+</a>
+<br>
+Ryan Ilai Santiago 2021
+</footer>
+</html>
+</html>
